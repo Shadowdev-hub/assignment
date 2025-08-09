@@ -1,0 +1,18 @@
+.first{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 18px;
+}
+.first-ch-img{
+    width: 300px;
+    display: block;
+}
+.search-box{
+    width: 250px;
+    display: block;
+}
+.second-ch-img{
+     width: 300px;
+    display: block;
+}
