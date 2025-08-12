@@ -1,0 +1,47 @@
+.project-title{
+ font-family: arial;
+ font-weight: bold;
+ font-size: 30px;
+ line-height: 24px;
+ margin-bottom: 15px;
+}
+.project-vision{
+    font-family: arial;
+    font-size:20px;
+    color: brown;
+    margin-top:0;
+}
+.project-head{
+    font-family: arial;
+    font-size: 18px;
+}
+.Head-about{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top:0;
+    color: rgba(96, 96, 96, 0.473);
+    margin-bottom: 20px;
+}
+.project-message{
+    font-family: Arial;
+    font-size: 20px;
+    margin-top:0;
+    line-height: 10px;
+}
+.join{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+     height: 36px;
+    width:105px;
+     border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.join:hover{
+    opacity: 0.9;
+}
+.join:active{
+    background-color:rgba(0, 0, 255, 0.295) ;
+}
